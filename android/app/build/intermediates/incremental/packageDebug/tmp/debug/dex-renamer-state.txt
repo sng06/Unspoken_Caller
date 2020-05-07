@@ -1,0 +1,4 @@
+#Thu May 07 11:34:02 PDT 2020
+base.0=/Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

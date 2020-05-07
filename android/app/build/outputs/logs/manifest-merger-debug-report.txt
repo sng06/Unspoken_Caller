@@ -1,0 +1,339 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:react-native-gesture-handler] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sms] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-voice] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-community_geolocation] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-android-location-enabler] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-get-location] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/bee8f31516f02a0f49d411215ceafb51/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e6452a067d12da629d73b7fd63da4f25/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/418668e6c5cf339cc3b6000a4737b28b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/df70664441225dd37dce88153916ba6f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/06d0aeb47fdda64c774da2336eb37598/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/9c574c03086a9214a3bed16ab0375756/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/778c7fe0432ddc4784cdc1383aa59e3b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/6aabeac96c187d2187d3f325447d0383/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e460a0497deca88dc5472e0ba8dac91b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f1061d5d904061a7df2131dba00588ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/172000701b51a2f0f9c342de12d36efb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cc067fe5d1e30fb9e2ac43099d5e1cb3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/7bc47e0a4385406f54bfd2bcc2c5ae72/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/311bc29f426df8966500e33f28b28c1e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/719e8d0a858431e2ab336a7e96c7b0d1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/28849af18045bf2e7d969ea02623a021/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/50f6c1102e1fc5ba0041057cf3f7b2e9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/19149b7e85e63e25df2ac1d47eb1be01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/fa1b72665cd1867b14bd4142875287a3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/7bd4831520e9dde4d252eea3fd375b76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/d22dbe458f633521d266a5eebcda5540/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/0f1c21882c38f3601701997dea318587/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5cb452cc9126160ee987c1f38adcaa4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/c2a9a5ddc0f7175b6a862b4da1a0f06c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/987c7925287225b95c1deb82d4b0086a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/03e3ade4a3914d0315546debca3dc1b7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e3ba47f5b75ac90f945e7dbae49d7ba8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/0db47039ca8b01b0c1999eaad63ff65d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/3e2c3590ff06fcd80be8b0e34de6f655/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8e48844549e9781e5541b392806b86d3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cd5d4a45850bd4de6a4731e7ffaffcd9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5dad0e4d990052c9edfcdbc9edb7ee28/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cce38654fabcd3d04aba98ec6f17637d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/c1d6811d0aa3879b91f7cfa5c3cccce4/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/48491155e785d374b8fcbd9015140ba8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/430582d807bf1621c7e8d9b79a26c465/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/dd2eacbd795dedec4cae8f65a8808625/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/ff38591c9685f355b4be73e6a9a7b48b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/d86d5b8b6d14b92c26f624aa682e7e95/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/bc229ce3956e6abef41a7c51706fe96f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8be875cd1a30252e9b05f0e37e3253bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8b0a868c79661938dae60d0028771406/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/22d684f44e8e341d9aca7d518a384807/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-voice] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-67
+MERGED from [:react-native-voice] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-67
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:6:5-71
+MERGED from [:react-native-voice] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-71
+MERGED from [:react-native-voice] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:10:5-80
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-get-location] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-get-location] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:13:5-31:19
+MERGED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:13:5-31:19
+MERGED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:13:5-31:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/bee8f31516f02a0f49d411215ceafb51/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/bee8f31516f02a0f49d411215ceafb51/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/418668e6c5cf339cc3b6000a4737b28b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/418668e6c5cf339cc3b6000a4737b28b/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cc067fe5d1e30fb9e2ac43099d5e1cb3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cc067fe5d1e30fb9e2ac43099d5e1cb3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/7bc47e0a4385406f54bfd2bcc2c5ae72/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/7bc47e0a4385406f54bfd2bcc2c5ae72/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/311bc29f426df8966500e33f28b28c1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/311bc29f426df8966500e33f28b28c1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/719e8d0a858431e2ab336a7e96c7b0d1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/719e8d0a858431e2ab336a7e96c7b0d1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/28849af18045bf2e7d969ea02623a021/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/28849af18045bf2e7d969ea02623a021/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5dad0e4d990052c9edfcdbc9edb7ee28/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5dad0e4d990052c9edfcdbc9edb7ee28/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/c1d6811d0aa3879b91f7cfa5c3cccce4/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/c1d6811d0aa3879b91f7cfa5c3cccce4/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5dad0e4d990052c9edfcdbc9edb7ee28/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:15:7-39
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:15:7-39
+	tools:ignore
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:17:7-52
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:17:7-52
+	tools:targetApi
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:16:7-41
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:18:7-34
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:18:7-34
+	android:theme
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:19:7-38
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:19:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:20:7-29:18
+	android:label
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-sdk
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sms] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sms] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-voice] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-voice] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-community_geolocation] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-android-location-enabler] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-location-enabler] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-location] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-location] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/bee8f31516f02a0f49d411215ceafb51/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/bee8f31516f02a0f49d411215ceafb51/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e6452a067d12da629d73b7fd63da4f25/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e6452a067d12da629d73b7fd63da4f25/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/418668e6c5cf339cc3b6000a4737b28b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/418668e6c5cf339cc3b6000a4737b28b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/df70664441225dd37dce88153916ba6f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/df70664441225dd37dce88153916ba6f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/06d0aeb47fdda64c774da2336eb37598/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/06d0aeb47fdda64c774da2336eb37598/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/9c574c03086a9214a3bed16ab0375756/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/9c574c03086a9214a3bed16ab0375756/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/778c7fe0432ddc4784cdc1383aa59e3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/778c7fe0432ddc4784cdc1383aa59e3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/6aabeac96c187d2187d3f325447d0383/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/6aabeac96c187d2187d3f325447d0383/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e460a0497deca88dc5472e0ba8dac91b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e460a0497deca88dc5472e0ba8dac91b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f1061d5d904061a7df2131dba00588ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f1061d5d904061a7df2131dba00588ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/172000701b51a2f0f9c342de12d36efb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/172000701b51a2f0f9c342de12d36efb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cc067fe5d1e30fb9e2ac43099d5e1cb3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cc067fe5d1e30fb9e2ac43099d5e1cb3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/7bc47e0a4385406f54bfd2bcc2c5ae72/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/7bc47e0a4385406f54bfd2bcc2c5ae72/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/311bc29f426df8966500e33f28b28c1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/311bc29f426df8966500e33f28b28c1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/719e8d0a858431e2ab336a7e96c7b0d1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/719e8d0a858431e2ab336a7e96c7b0d1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/28849af18045bf2e7d969ea02623a021/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/28849af18045bf2e7d969ea02623a021/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/50f6c1102e1fc5ba0041057cf3f7b2e9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/50f6c1102e1fc5ba0041057cf3f7b2e9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/19149b7e85e63e25df2ac1d47eb1be01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/19149b7e85e63e25df2ac1d47eb1be01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/fa1b72665cd1867b14bd4142875287a3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/fa1b72665cd1867b14bd4142875287a3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/7bd4831520e9dde4d252eea3fd375b76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/7bd4831520e9dde4d252eea3fd375b76/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/d22dbe458f633521d266a5eebcda5540/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/d22dbe458f633521d266a5eebcda5540/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/0f1c21882c38f3601701997dea318587/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/0f1c21882c38f3601701997dea318587/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5cb452cc9126160ee987c1f38adcaa4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5cb452cc9126160ee987c1f38adcaa4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/c2a9a5ddc0f7175b6a862b4da1a0f06c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/c2a9a5ddc0f7175b6a862b4da1a0f06c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/987c7925287225b95c1deb82d4b0086a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/987c7925287225b95c1deb82d4b0086a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/03e3ade4a3914d0315546debca3dc1b7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/03e3ade4a3914d0315546debca3dc1b7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e3ba47f5b75ac90f945e7dbae49d7ba8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/e3ba47f5b75ac90f945e7dbae49d7ba8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/0db47039ca8b01b0c1999eaad63ff65d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/0db47039ca8b01b0c1999eaad63ff65d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/3e2c3590ff06fcd80be8b0e34de6f655/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/3e2c3590ff06fcd80be8b0e34de6f655/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8e48844549e9781e5541b392806b86d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8e48844549e9781e5541b392806b86d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cd5d4a45850bd4de6a4731e7ffaffcd9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cd5d4a45850bd4de6a4731e7ffaffcd9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5dad0e4d990052c9edfcdbc9edb7ee28/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/5dad0e4d990052c9edfcdbc9edb7ee28/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cce38654fabcd3d04aba98ec6f17637d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/cce38654fabcd3d04aba98ec6f17637d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/c1d6811d0aa3879b91f7cfa5c3cccce4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/c1d6811d0aa3879b91f7cfa5c3cccce4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/48491155e785d374b8fcbd9015140ba8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/48491155e785d374b8fcbd9015140ba8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/430582d807bf1621c7e8d9b79a26c465/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/430582d807bf1621c7e8d9b79a26c465/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/dd2eacbd795dedec4cae8f65a8808625/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/dd2eacbd795dedec4cae8f65a8808625/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/ff38591c9685f355b4be73e6a9a7b48b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/ff38591c9685f355b4be73e6a9a7b48b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/d86d5b8b6d14b92c26f624aa682e7e95/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/d86d5b8b6d14b92c26f624aa682e7e95/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/bc229ce3956e6abef41a7c51706fe96f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/bc229ce3956e6abef41a7c51706fe96f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8be875cd1a30252e9b05f0e37e3253bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8be875cd1a30252e9b05f0e37e3253bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8b0a868c79661938dae60d0028771406/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/8b0a868c79661938dae60d0028771406/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/22d684f44e8e341d9aca7d518a384807/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/22d684f44e8e341d9aca7d518a384807/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:react-native-voice] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peterlin/Sheena/Projects/Unspoken_Caller/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:react-native-geolocation-service] /Users/peterlin/Sheena/Projects/Unspoken_Caller/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/f8eabd804f8320ab38927482c708166a/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/28849af18045bf2e7d969ea02623a021/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/28849af18045bf2e7d969ea02623a021/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/peterlin/.gradle/caches/transforms-2/files-2.1/28849af18045bf2e7d969ea02623a021/AndroidManifest.xml:24:13-58
