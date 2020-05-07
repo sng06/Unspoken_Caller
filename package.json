@@ -42,6 +42,6 @@
     "preset": "react-native"
   },
   "resolutions": {
-    "minimist": "^1.2.2"
+    "minimist": "^1.2.3"
   }
 }
