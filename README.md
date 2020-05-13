@@ -1,6 +1,6 @@
 <img src="Images/unspoken_caller_logo.png" alt="todolist_logo" width=150 height=150> a cmd-f Hacks project
 
-[![React Native](https://img.shields.io/github/languages/top/sng06/Unspoken_Caller)](https://java.com/en/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/sng06/Unspoken_Caller/issues/)
+[![React Native](https://img.shields.io/github/languages/top/sng06/Unspoken_Caller)](https://java.com/en/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/sng06/Unspoken_Caller/issues/) [![Last Commit](https://img.shields.io/github/last-commit/sng06/Unspoken_Caller)](https://github.com/sng06/Unspoken_Caller/commits/master)
 
 ## Motivation
 
