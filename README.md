@@ -1,4 +1,5 @@
-# <img src="Images/unspoken_caller_logo.png" alt="todolist_logo" width=100 height=100> a cmd-f Hacks project
+# <img src="Images/unspoken_caller_logo.png" alt="todolist_logo" width=200 height=200> 
+a cmd-f Hacks project
 
 [![React Native](https://img.shields.io/github/languages/top/sng06/Unspoken_Caller)](https://java.com/en/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/sng06/Unspoken_Caller/issues/)
 
